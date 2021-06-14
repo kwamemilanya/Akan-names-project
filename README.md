@@ -1,4 +1,4 @@
-# Akan-names-project
+# Akan Names Project
 #### By **Kwame Milanya**
 ## List of Content
 * Description
