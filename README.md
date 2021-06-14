@@ -10,9 +10,11 @@
 
 ## Setup/Installation Requirements
 * On Terminal.
-* to list setup instructions
-* in a simple
-* easy-to-understand
+* git clone 
+* cd Akan-names-project
+## BDD
+## Live Link
+https://kwamemilanya.github.io/Akan-names-project/
 ## Known Bugs
 Inaccurate formular.
 ## Technologies Used
