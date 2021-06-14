@@ -1,16 +1,17 @@
 # Akan-names-project
 #### By **Kwame Milanya**
 ## List of Content
+* Description
 * Setup instructions
 * BDD.
 * Technologies used.
 * Contact information.
 * License and Copyright information.
 ## Description
-
+The web application uses a person's birthday and tells them their Akan name which is the name Ghanian people give to their children depending on the day they were born. Keep note that the name varies depending on gender.
 ## Setup/Installation Requirements
 * On Terminal.
-* git clone 
+* git clone https://github.com/kwamemilanya/Akan-names-project.git
 * cd Akan-names-project
 ## BDD
 ## Live Link
