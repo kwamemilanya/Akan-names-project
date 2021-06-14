@@ -12,7 +12,6 @@ The web application uses a person's birthday and tells them their Akan name whic
 * On Terminal.
 * git clone https://github.com/kwamemilanya/Akan-names-project.git
 * cd Akan-names-project
-## BDD
 ## Live Link
 https://kwamemilanya.github.io/Akan-names-project/
 ## Known Bugs
